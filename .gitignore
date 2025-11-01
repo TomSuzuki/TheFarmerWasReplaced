@@ -1,3 +1,9 @@
+# TheFarmerWasReplaced
+__builtins__.py
+main.py
+f0.py
+save.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
